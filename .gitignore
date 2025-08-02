@@ -1,0 +1,13 @@
+# Java və Maven faylları
+/target
+*.class
+*.log
+*.jar
+
+# IDE faylları
+/.idea
+*.iml
+
+# OS spesifik fayllar
+.DS_Store
+Thumbs.db
